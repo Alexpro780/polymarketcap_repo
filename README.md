@@ -1,1 +1,1 @@
-PolyMarketCap is a lightweight, multi-chain market data template (TypeScript) with modular adapters, a demo CLI, and a minimal HTTP API—ideal for building your own crypto market-cap dashboard and data services.
+PolyMarketCap is a lightweight, multi-chain market data template (TypeScript) with modular adapters, a demo CLI, and a minimal HTTP API—ideal for building your own
