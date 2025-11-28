@@ -7,3 +7,4 @@ t’s a decentralized prediction market where users trade on real-world events;
 nstead of noise and hype, you get a distilled signal of collective belief.
 decentralized prediction market where users trade on real-world events;
 Polymarket feels like a giant prediction compass pointed at the world’s uncertainty — a place where people turn opinions into measurable probability.
+the world’s uncertainty — a place where people turn opinions into measurable probability.
