@@ -3,3 +3,4 @@ PolyMarketCap is a lightweight, multi-chain market data template (TypeScript) wi
 network = input("Сеть (aztec, zama, zec, ton, ethereum, custom): ").strip()
 
 prices move like tiny weather fronts, showing what the crowd really thinks;
+t’s a decentralized prediction market where users trade on real-world events;
